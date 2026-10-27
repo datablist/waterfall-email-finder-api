@@ -299,4 +299,5 @@ within the API's request-size limits. These examples do not batch larger lists.
 - [Company Name Cleaner API](https://github.com/datablist/company-name-cleaner-api): clean and standardize company names.
 - [LinkedIn Profile Finder API](https://github.com/datablist/linkedin-profile-finder-api): find profiles from names and company keywords.
 - [LinkedIn Profile Scraper API](https://github.com/datablist/linkedin-profile-scraper-api): retrieve profile, employment, and education details from LinkedIn URLs.
+- [LinkedIn Company Scraper API](https://github.com/datablist/linkedin-company-scraper-api): retrieve company details from LinkedIn company pages.
 - [Impressum Scraper API](https://github.com/datablist/impressum-scraper-api): extract business details from website Impressum pages.
