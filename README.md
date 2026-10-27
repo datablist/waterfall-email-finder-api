@@ -8,6 +8,18 @@ Use it to fill missing work emails in CRM contacts, build prospecting workflows,
 or add email lookup to your application. Results include the email address,
 deliverability status, and mail provider when available.
 
+## Cost
+
+**25 credits per work email found** with the default waterfall.
+
+**No result, no charge.** If no work email is found, the lookup costs **0 credits**.
+
+If you use your own provider keys, provider usage is billed separately.
+
+Costs are in Datablist credits. Each result reports its actual `creditsUsed`.
+See the [API cost and limits](https://platform.datablist.com/docs/enrichments/tools/waterfall-email-finder#credits-and-limits)
+and [credit pack pricing](https://www.datablist.com/pricing) for current rates.
+
 ## Get started
 
 Choose [Python](python/README.md) or [TypeScript](typescript/README.md).
@@ -32,11 +44,6 @@ npx tsx typescript/example.ts
 
 With Node.js 24.3 or newer, you can also run `node typescript/example.ts` directly.
 Run each command block from the repository root.
-
-Calls use account credits. See the current
-[credit cost and limits](https://platform.datablist.com/docs/enrichments/tools/waterfall-email-finder#credits-and-limits)
-and [pricing](https://www.datablist.com/pricing). Each result reports its actual
-`creditsUsed`.
 
 ## Input and output
 
