@@ -315,3 +315,5 @@ within the API's request-size limits. These examples do not batch larger lists.
 - [Waterfall Phone Finder API](https://github.com/datablist/waterfall-phone-finder-api): find phone numbers from LinkedIn profile URLs.
 - [Waterfall Personal Email Finder API](https://github.com/datablist/waterfall-personal-email-finder-api): find personal email addresses from LinkedIn profile URLs.
 - [Instagram Followers Scraper API](https://github.com/datablist/instagram-followers-scraper-api): scrape followers or following lists from Instagram profiles.
+- [Bulk Google Search API](https://github.com/datablist/bulk-google-search-api): run Google searches and retrieve structured results.
+- [Sitemap Scraper API](https://github.com/datablist/sitemap-scraper-api): collect page URLs and modification dates from XML sitemaps.
