@@ -1,8 +1,8 @@
 # Waterfall Email Finder API
 
 Find work email addresses from a person's name and company, or their LinkedIn
-profile URL, with the [Datablist](https://www.datablist.com/) Waterfall Email
-Finder API. A waterfall tries several lookup services to find an email.
+profile URL, with the Datablist
+[Waterfall Email Finder API](https://www.datablist.com/apis/waterfall-email-finder). A waterfall tries several lookup services to find an email.
 
 Use it to fill missing work emails in CRM contacts, build prospecting workflows,
 or add email lookup to your application. Results include the email address,
@@ -10,7 +10,10 @@ deliverability status, and mail provider when available.
 
 ## Cost
 
-**25 credits per work email found** with the default waterfall.
+The base cost is **$1 for 1,000 credits** ($0.001 per credit, in USD).
+Larger top-up packages reduce the price per credit and per record.
+
+**25 credits ($0.025) per work email found** with the default waterfall.
 
 **No result, no charge.** If no work email is found, the lookup costs **0 credits**.
 
@@ -311,3 +314,4 @@ within the API's request-size limits. These examples do not batch larger lists.
 - [Impressum Scraper API](https://github.com/datablist/impressum-scraper-api): extract business details from website Impressum pages.
 - [Waterfall Phone Finder API](https://github.com/datablist/waterfall-phone-finder-api): find phone numbers from LinkedIn profile URLs.
 - [Waterfall Personal Email Finder API](https://github.com/datablist/waterfall-personal-email-finder-api): find personal email addresses from LinkedIn profile URLs.
+- [Instagram Followers Scraper API](https://github.com/datablist/instagram-followers-scraper-api): scrape followers or following lists from Instagram profiles.
